@@ -31,7 +31,7 @@
     "lodash": "4.5.0",
     "optioner": "0.8.0",
     "pad": "1.1.0",
-    "swim": "github:fluidnotions/swim#master"
+    "swim": "github:fluidnotions/swim-js#master"
   },
   "devDependencies": {
     "code": "3.x.x",
